@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Yet Another Create-React-App Template
+
+With Prettier config, SCSS Support and somewhat better file structure.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
